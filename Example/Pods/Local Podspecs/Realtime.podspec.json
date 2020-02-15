@@ -1,0 +1,42 @@
+{
+  "name": "Realtime",
+  "version": "0.1.0",
+  "summary": "A short description of Realtime.",
+  "static_framework": true,
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aotero@recursivelabs.com/Realtime",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aotero@recursivelabs.com": "aotero@recursivelabse.com"
+  },
+  "source": {
+    "git": "https://github.com/aotero@recursivelabs.com/Realtime.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Realtime/Classes/**/*",
+  "dependencies": {
+    "Firebase": [
+
+    ],
+    "Firebase/Storage": [
+
+    ],
+    "Firebase/Firestore": [
+
+    ],
+    "PromiseKit": [
+
+    ]
+  },
+  "resource_bundles": {
+    "Realtime": [
+      "Realtime/Assets/*.plist"
+    ]
+  }
+}
