@@ -22,7 +22,7 @@ pod 'Realtime'
 
 ## Author
 
-aotero@recursivelabs.com, aotero@recursivelabse.com
+ismael.a.otero@gmail.com, ismael.a.otero@gmail.com
 
 ## License
 
